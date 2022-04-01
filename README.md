@@ -26,6 +26,7 @@
 
 # Prefix
 The prefix can be changed, but the default one is `ai {command}`.
+
 Change the {command} with one of the commands that can be found on `ai help`.
 
 # Usage
