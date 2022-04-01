@@ -28,7 +28,9 @@
 The prefix can be changed, but the default one is `ai {command}`, change the {command} with one of the commands that can be found on `ai help`.
 
 # Usage
+![Help](https://github.com/NorsHiden/Ai_Hayasaka-discord_bot/blob/master/ai_help.gif)
+
 Create an environment variable `TOKEN=YOUR_APPLICATION_TOKEN` or a `.env` file at the root of the repo and put  `TOKEN=YOUR_APPLICATION_TOKEN` inside of it.
 For clear explanation, check [How to build your own Discord-Bot](https://discordpy.readthedocs.io/en/stable/discord.html).
 All the informations that you'll need to run ***Bot commands*** will be found in the command `ai help`.
-![Help](https://github.com/NorsHiden/Ai_Hayasaka-discord_bot/blob/master/ai_help.gif)
+
