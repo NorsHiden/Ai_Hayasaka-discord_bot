@@ -1,7 +1,8 @@
 ![Banner](https://github.com/NorsHiden/Ai_Hayasaka-discord_bot/blob/master/discord%20bot%20banner.png)
 # 🛠 Moderator Discord Bot (Ai Hayasaka)
 
-**Ai Hayasaka** is a Multi-purpose **Discord-Bot** with many features and commands !
+**Ai Hayasaka** is a Multi-purpose **Discord-Bot** with many features and commands built in <code><img src="![image](https://user-images.githubusercontent.com/43015915/161380890-d24995d3-cb14-4de9-ab41-00a6a02b0ab8.png)
+" alt=""></code> Python !
 
 # 💈 Features
 
