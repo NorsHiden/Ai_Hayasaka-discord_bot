@@ -1,9 +1,9 @@
 ![Banner](https://github.com/NorsHiden/Ai_Hayasaka-discord_bot/blob/master/discord%20bot%20banner.png)
-# Moderator Discord Bot (Ai Hayasaka)
+# 🛠 Moderator Discord Bot (Ai Hayasaka)
 
 **Ai Hayasaka** is a Multi-purpose **Discord-Bot** with many features and commands !
 
-# Features
+# 💈 Features
 
  - Achievement.
  - Ascii Art.
@@ -24,12 +24,12 @@
  - User Info.
  - Weather Report.
 
-# Prefix
+# 🎈 Prefix
 The prefix can be changed, but the default one is `ai {command}`.
 
 Change the {command} with one of the commands that can be found on `ai help`.
 
-# Usage
+# 🗝 Usage
 ![Help](https://github.com/NorsHiden/Ai_Hayasaka-discord_bot/blob/master/ai_help.gif)
 
 Create an environment variable `TOKEN=YOUR_APPLICATION_TOKEN` or a `.env` file at the root of the repo and put  `TOKEN=YOUR_APPLICATION_TOKEN` inside of it.
