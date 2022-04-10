@@ -27,7 +27,7 @@
 # 🎈 Prefix
 The prefix can be changed, but the default one is `ai {command}`.
 
-Change the {command} with one of the commands that can be found on `ai help`.
+Change the {command} with one of the commands that can be found in `ai help`.
 
 # 🗝 Usage
 ![Help](https://github.com/NorsHiden/Ai_Hayasaka-discord_bot/blob/master/ai_help.gif)
